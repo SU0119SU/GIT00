@@ -1,4 +1,7 @@
 header {
-  height: 100px;
-  width: 100px;
+  height: 1000px;
+  width: 1000px;
+  background-color: pink;
+  background-image: url("images/1.png");
+  background-size: cover;
 }
